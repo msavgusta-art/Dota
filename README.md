@@ -1,2 +1,0 @@
-# Dota
-Dota mechanics
